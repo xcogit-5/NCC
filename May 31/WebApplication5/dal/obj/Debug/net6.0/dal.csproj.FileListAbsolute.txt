@@ -1,0 +1,12 @@
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\bin\Debug\net6.0\dal.deps.json
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\bin\Debug\net6.0\dal.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\bin\Debug\net6.0\dal.pdb
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.csproj.AssemblyReference.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.AssemblyInfoInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.AssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.csproj.CoreCompileInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\refint\dal.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\dal.pdb
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\csh\vs\May 4\WebApplication5\dal\obj\Debug\net6.0\ref\dal.dll
