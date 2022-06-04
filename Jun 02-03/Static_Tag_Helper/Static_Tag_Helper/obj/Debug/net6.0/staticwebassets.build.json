@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "cajLFU7Btx+hY+U5v2nd79FhkuUkvDnN+GIDLLaJWU0=",
+  "Source": "Static_Tag_Helper",
+  "BasePath": "_content/Static_Tag_Helper",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Static_Tag_Helper\\wwwroot",
+      "Source": "Static_Tag_Helper",
+      "ContentRoot": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Scratch Pad\\NCC\\Parallels\\Static_Tag_Helper\\Static_Tag_Helper\\wwwroot\\",
+      "BasePath": "_content/Static_Tag_Helper",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Scratch Pad\\NCC\\Parallels\\Static_Tag_Helper\\Static_Tag_Helper\\wwwroot\\StyleSheet.css",
+      "SourceId": "Static_Tag_Helper",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\x42v9\\OneDrive\\Desktop\\Scratch Pad\\NCC\\Parallels\\Static_Tag_Helper\\Static_Tag_Helper\\wwwroot\\",
+      "BasePath": "_content/Static_Tag_Helper",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
