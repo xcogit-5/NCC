@@ -1,0 +1,56 @@
+#!markdown
+
+Reading data from Database using
+1. DataTable
+2. SqlDataReader
+
+#!csharp
+
+//1. using DataTable
+using System.Data
+using System.Data.SqlClient
+
+class HomeController: Controller
+{
+    public IActionResult Get()
+    {
+        string ServerLocation = "Data Source = computer-name; uid = sa; pwd = sql; Initial catalog = Test";
+        SqlConnection con = new SqlConnection(ServerLocation);
+        string sql = "Select * from tblStudent";
+        SqlCommand cmd = new SqlCommand(sql, con);
+        SqlDataAdapter da = new SqlDataAdapter(cmd);
+        DataTable dt = new DataTable();
+        da.Fill(dt);
+        if(dt.Rows.Count > 0)
+        {
+            return View("Welcome");
+        }
+        else 
+        return VIew();
+    }
+}
+
+//2. using SqlDataReader
+
+//In 
+using System.Data;
+using System.Data.SqlClient;
+
+class HomeController: HomeController{
+    public IActionResult Get()
+    {
+        string ServerLocation = "...........";
+        SqlConnection con = new SqlConnection(ServerLocation);
+        string sql = "Select * from tblStudent";
+        SqlCommand cmd = new SqlCommand(sql, con);
+        con.open();
+        SqlDataReader reader = cmd.ExecuteReader();
+        while (reader.Read())
+        {
+            ViewBag.Roll = reader.GetInt(0);
+            ViewBag.Name = reader.GetString(1);
+         }
+         con.Close();
+         return View();
+    }
+}

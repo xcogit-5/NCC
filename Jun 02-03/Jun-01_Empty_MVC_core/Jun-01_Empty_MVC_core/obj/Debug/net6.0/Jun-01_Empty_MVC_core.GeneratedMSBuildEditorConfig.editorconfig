@@ -8,29 +8,29 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Jun_01_Empty_MVC_core
 build_property.RootNamespace = Jun_01_Empty_MVC_core
-build_property.ProjectDir = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Parallels\Jun-01_Empty_MVC_core\Jun-01_Empty_MVC_core\
+build_property.ProjectDir = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 02-03\Jun-01_Empty_MVC_core\Jun-01_Empty_MVC_core\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Parallels\Jun-01_Empty_MVC_core\Jun-01_Empty_MVC_core
+build_property.MSBuildProjectDirectory = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 02-03\Jun-01_Empty_MVC_core\Jun-01_Empty_MVC_core
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Parallels/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Home/Display.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 02-03/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Home/Display.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEaXNwbGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Parallels/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Home/Information.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 02-03/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Home/Information.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Parallels/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/create.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 02-03/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxjcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Parallels/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/Information.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 02-03/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/Information.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmZvcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Parallels/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/show.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 02-03/Jun-01_Empty_MVC_core/Jun-01_Empty_MVC_core/Views/Student/show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxzaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

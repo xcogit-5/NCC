@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Razor.TagHelpers
+@using WebApplication1.Models
+@model ModelStudent
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<html>
+<head></head>
+<body>
+	<form method="post" asp-controller="Home" asp-action="Add">
+	<label asp-for="Roll"></label>
+		<input type="number" name="Roll" asp-for="Roll" />	
+	
+	<label asp-for="Name"></label>
+		<input type="text" name="Name" asp-for="Name" />	
+	
+	<button type="Submit">Add Student</button>
+	</form>
+	</body>
+</html>

@@ -1,0 +1,46 @@
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\appsettings.json
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\action verb.exe
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\action verb.deps.json
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\action verb.runtimeconfig.json
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\action verb.dll
+C:\Users\Student\source\repos\action verb\action verb\bin\Debug\net6.0\action verb.pdb
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.AssemblyInfo.cs
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.RazorAssemblyInfo.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.RazorAssemblyInfo.cs
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\scopedcss\bundle\action verb.styles.css
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.dll
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\refint\action verb.dll
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.pdb
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\action verb.genruntimeconfig.cache
+C:\Users\Student\source\repos\action verb\action verb\obj\Debug\net6.0\ref\action verb.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\appsettings.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\action verb.exe
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\action verb.deps.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\action verb.runtimeconfig.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\action verb.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\bin\Debug\net6.0\action verb.pdb
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.csproj.AssemblyReference.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.AssemblyInfoInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.AssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.csproj.CoreCompileInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.RazorAssemblyInfo.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.RazorAssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\scopedcss\bundle\action verb.styles.css
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\refint\action verb.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.pdb
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\action verb.genruntimeconfig.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\action verb\action verb\obj\Debug\net6.0\ref\action verb.dll

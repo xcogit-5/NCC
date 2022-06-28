@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication8
 build_property.RootNamespace = WebApplication8
-build_property.ProjectDir = c:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 01\WebApplication8\WebApplication8\
+build_property.ProjectDir = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 01\WebApplication8\WebApplication8\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 01\WebApplication8\WebApplication8
+build_property.MSBuildProjectDirectory = C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\Jun 01\WebApplication8\WebApplication8
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 01/WebApplication8/WebApplication8/Views/Student/show.cshtml]
+[C:/Users/x42v9/OneDrive/Desktop/Scratch Pad/NCC/Class/Jun 01/WebApplication8/WebApplication8/Views/Student/show.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxzaG93LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

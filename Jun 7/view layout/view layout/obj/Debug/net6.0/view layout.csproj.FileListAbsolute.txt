@@ -1,0 +1,46 @@
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\appsettings.Development.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\appsettings.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\view layout.exe
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\view layout.deps.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\view layout.runtimeconfig.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\view layout.dll
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\bin\Debug\net6.0\view layout.pdb
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.csproj.AssemblyReference.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.GeneratedMSBuildEditorConfig.editorconfig
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.AssemblyInfoInputs.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.AssemblyInfo.cs
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.csproj.CoreCompileInputs.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.MvcApplicationPartsAssemblyInfo.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.RazorAssemblyInfo.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.RazorAssemblyInfo.cs
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\staticwebassets.build.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\staticwebassets.development.json
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\scopedcss\bundle\view layout.styles.css
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.dll
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\refint\view layout.dll
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.pdb
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\view layout.genruntimeconfig.cache
+D:\binisha\6th sem\NCC\lab\.net\view layout\view layout\obj\Debug\net6.0\ref\view layout.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\appsettings.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\view layout.exe
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\view layout.deps.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\view layout.runtimeconfig.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\view layout.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\bin\Debug\net6.0\view layout.pdb
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.csproj.AssemblyReference.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.AssemblyInfoInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.AssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.csproj.CoreCompileInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.RazorAssemblyInfo.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.RazorAssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\scopedcss\bundle\view layout.styles.css
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\refint\view layout.dll
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.pdb
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\view layout.genruntimeconfig.cache
+C:\Users\x42v9\OneDrive\Desktop\.net\view layout\view layout\obj\Debug\net6.0\ref\view layout.dll

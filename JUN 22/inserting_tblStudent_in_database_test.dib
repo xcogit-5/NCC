@@ -1,0 +1,22 @@
+#!markdown
+
+//For insterting in table "tblStudent" in database tblStudent
+
+#!csharp
+
+using System.Data.SqlClient;
+class StudentController:Controller
+{
+    public IActionResult student()
+    {
+        string serverLocation = "Data Source = computer-name; uid = sa; pwd = sql; Initial catalog = Test";
+        SqlConnection con = new SqlConnection(serverLocation);
+        string sql = "delete from tblStudent where Roll=@Roll";
+        sqlCommand cmd = new SqlCommand (sql, con);
+        cmd.parameters.AddWithValue("@Roll",s.Roll);
+        con.open();
+        cmd.ExecuteNonQuery();
+        con.close();
+        return View();
+    }
+}
