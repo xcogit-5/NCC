@@ -1,0 +1,15 @@
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\bin\Debug\net6.0\efcore_crud.exe
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\bin\Debug\net6.0\efcore_crud.deps.json
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\bin\Debug\net6.0\efcore_crud.runtimeconfig.json
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\bin\Debug\net6.0\efcore_crud.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\bin\Debug\net6.0\efcore_crud.pdb
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.csproj.AssemblyReference.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.AssemblyInfoInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.AssemblyInfo.cs
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.csproj.CoreCompileInputs.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\refint\efcore_crud.dll
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.pdb
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\efcore_crud.genruntimeconfig.cache
+C:\Users\x42v9\OneDrive\Desktop\Scratch Pad\NCC\Class\JUN 28\efc_vs\efcore_crud\efcore_crud\obj\Debug\net6.0\ref\efcore_crud.dll

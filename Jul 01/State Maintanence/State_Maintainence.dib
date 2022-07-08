@@ -1,0 +1,104 @@
+#!markdown
+
+State Maintainance
+1. Session
+2. Cookies
+3. Temp Data
+4. Query String
+5. Hidden Field
+
+#!markdown
+
+1. Session
+
+#!csharp
+
+//Program.cs
+
+builder.Services.AddSession();
+app.UseSession();
+
+//HomeController.cs
+
+class HomeController: Controller
+{
+    public IActionResult set()
+    {
+        HttpContext.Session.SetInt("Roll", 1);
+        HttpContext.Session.SetString("Name", "John");
+        return View();
+    }
+
+    public IActionResult Get()
+    {
+        int roll = (int)HttpContext.Session.GetInt("Roll");
+        string name = HttpContext.Session.GetString("Name");
+        ViewBag.Roll = roll;
+        ViewBag.Name = name;
+        return View();
+    }
+}
+
+#!markdown
+
+2. Cookies
+
+#!csharp
+
+//HomeController.cs
+
+class HomeController : Controller
+{
+    public IActionResult Set()
+    {
+        Response.Cookies.Append("Uname", "Ram");
+        Response.Cookied.Append("Pass", "Nepal");
+        return View();
+    }
+
+    public IActionResult Get()
+    {
+        string user = Request.Cookies["Uname"];
+        string pass = Request.Cookies["Pass"];
+
+        ViewBag.User = User;
+        ViewBag.Pass = Pass;
+        return View();
+    }
+}
+
+#!markdown
+
+3. TempData
+
+#!csharp
+
+//HomeController.cs
+
+class HomeController : HomeController{
+    public IActionResult First()
+    {
+        TempData["name"] = "Nepal";
+        return View();
+    }
+
+    public IActionResult Second()
+    {
+        ViewBag.Name = TempData["name"];
+        return View();
+    }
+
+    public IActionResult Third()
+    {
+        ViewBag.Name = TempData["name"];
+        return View();
+    }
+}
+
+#!markdown
+
+4.Query String
+
+#!markdown
+
+5. Hidden Field
